@@ -1,0 +1,172 @@
+body{
+      margin:0 auto;
+padding:0;
+
+}
+.qipan{
+	padding-top: 20px;
+	width:800px;
+	height:580px;
+	margin:20px auto;
+	box-shadow: 5px 5px 7px #5D3205;
+	border-radius: 10px;
+	background: #996227;
+	background-image: url(../img/back.jpg) ;
+	position: relative;
+}
+#cence{
+	/*padding: 5px;*/
+	width:500px;
+	height:500px;
+	margin:30px 50px;
+	border-bottom: none;
+	border-right: none;
+	position: relative;
+	box-shadow: 0px 0px 10px black; 
+	/*background-image: url(../img/mu3.jpg);*/
+	background: #F7E3AD;
+	
+}
+.block{
+	border-radius: 10px;
+	margin:0 1px 1px 0;
+	float:left;
+
+}
+.wzq{
+	width:180px;
+	height:80px;
+	font-size: 30px;
+	text-align: center;
+	margin:10px auto;
+	position: absolute;
+	top:70px;
+	right:310px;
+	z-index:1;
+	background-image: url(../img/wzq.jpg);
+
+}
+
+#nyl{
+	width:400px;
+	height:80px;
+	/*border:1px solid black;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 50px;
+	color:black;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+#tc{
+	width:400px;
+	height:150px;
+	position: absolute;
+	top:200px;
+	left:100px;
+	
+	color:white;
+	z-index:99999;
+	display: none;
+	text-align: center;
+	line-height: 150px;
+	font-size: 60px;
+	color:white;
+	
+	background: #A6641E;
+	background-image: url(../img/back.jpg) ;
+	
+	box-shadow: 2px 0 4px black;
+	
+}
+#zlyj{
+	width:155px;
+	height:48px;
+	/*margin:10px auto;*/
+	/*border:1px solid white;*/
+	/*font-size: 22px;*/
+	line-height: 20px;
+	text-align: center;
+	color:white;
+	position: absolute;
+	top:200px;
+	right:50px;
+	/*padding:10px;*/
+	cursor: pointer;
+	background-image: url(../img/an1.jpg) ;
+
+}
+#bangzhu{
+	width:155px;
+	height:48px;
+	/*padding: 10px;*/
+	/*border:1px solid white;*/
+	position: absolute;
+	top:300px;
+	right:50px;
+	text-align: center;
+	line-height: 20px;
+	cursor: pointer;
+	color: white;
+	background-image: url(../img/an2.jpg) ;
+
+
+}
+#bangzi{
+	width:220px;
+	height:194px;
+	border:1px solid #9e5b0d;
+	position: absolute;
+	padding: 3px;
+	top:350px;
+	left:565px;
+	display: none;
+	color:white;
+	/*background: #A6641E;*/
+	border-radius: 3px;
+	z-index: 2;
+	font-size: 14px;
+}
+
+#bb{
+	width:20px;
+	height:20px;
+	/*border:1px solid #ccc;*/
+	/*margin:0 auto;*/
+	position: absolute;
+	top:10px;
+	right:10px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px;
+	background-image: url(../img/guan1.jpg) ;
+
+	/*border-radius: 3px;*/
+
+}
+#bb:hover{
+	/*transform:scale(1.1);*/
+	border:1px solid #373737;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
